@@ -1,0 +1,20 @@
+{
+  "name": "jest-react-experiment",
+  "version": "0.0.0",
+  "description": "Trying out TDD with jest.",
+  "devDependencies": {
+    "jest-cli": "^0.4.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "ruby server.rb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TODO"
+  },
+  "author": "willhall88",
+  "engines": {
+    "node": "0.12.x"
+  }
+}
